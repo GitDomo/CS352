@@ -1,3 +1,7 @@
+/*Domonic Lee
+20240609
+Purpose: practice with writing a larger program that manipulates an ArrayList in various ways.*/
+
 import java.util.ArrayList;
 import java.util.Collections;
 import java.util.Random;
